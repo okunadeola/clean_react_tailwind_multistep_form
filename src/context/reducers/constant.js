@@ -1,0 +1,7 @@
+
+
+export const PROCEED_TO_NEXT_STEP = 'PROCEED_TO_NEXT_STEP'
+export const GO_TO_PREVIOUS_STEP = 'GO_TO_PREVIOUS_STEP'
+export const GO_TO_PLAN_CHOICE_STEP = 'GO_TO_PLAN_CHOICE_STEP'
+export const COMPLETE_STEP = 'COMPLETE_STEP'
+export const SEEK = 'SEEK'
